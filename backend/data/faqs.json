@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "keyword": "LC",
+    "question": "What is a Letter of Credit?",
+    "answer": "A Letter of Credit (LC) is a financial document issued by a bank guaranteeing that a buyer's payment to a seller will be received on time and for the correct amount."
+  },
+  {
+    "id": 2,
+    "keyword": "BG",
+    "question": "What is Bank Guarantee?",
+    "answer": "A Bank Guarantee (BG) is a financial commitment issued by a bank on behalf of a customer to assure payment to a beneficiary if contractual obligations are not fulfilled."
+  }
+]
